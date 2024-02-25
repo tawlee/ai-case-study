@@ -202,7 +202,7 @@ The specific technologies required for each suggested product or service will de
 -	Machine Learning (ML): Allows chatbots to learn from previous interactions and improve their responses over time.
 -	Speech Recognition and Text-to-Speech: Enables voice-based interactions with chatbots for accessibility and convenience.
 
-* Why are these technologies appropriate for your solution?
+**Why are these technologies appropriate for your solution?**
 These technologies can be appropriate for the solution since it can help with the process of evaluating the suitability of these technologies towards the specific need:
 - Align Technologies with Needs – It can help reduce fraud, improve customer experience, enhance risk management processes and internal investigations/audit.
 - Choosing the right technology would complement the company’s strengths and address potential weaknesses.
