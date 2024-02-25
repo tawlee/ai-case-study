@@ -245,7 +245,7 @@ Ethical Considerations:
 
 ## References:
 
-Accenture report: "How Big Data is Transforming Risk Management." Retrieved from https://www.accenture.com/content/dam/accenture/final/accenture-com/document-2/Accenture-Risk-Study-2024-Edition.pdf
+Accenture report: "How Big Data is Transforming Risk Management." Retrieved from [I'm an inline-style link] https://www.accenture.com/content/dam/accenture/final/accenture-com/document-2/Accenture-Risk-Study-2024-Edition.pdf
 
 Beaver, S. (2023, March 21). 30 Financial Metrics and KPIs to Measure Success in 2023. Retrieved from https://www.netsuite.com/portal/resource/articles/accounting/financial-kpis-metrics.shtml
 
