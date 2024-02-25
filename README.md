@@ -121,6 +121,8 @@ Industry Recognition and Awards:
 -	Regulatory requirements: Consider the specific regulatory requirements applicable to your industry and region.
 -	Risk appetite statement: Evaluate your performance against your defined risk appetite.
 
+**How is your company performing based on these metrics?**
+
 As for IDB Bank, “On May 24, the Federal Deposit Insurance Corp. issued a consent order against Israel Discount Bank of New York. The bank did not admit or deny any charges of unsafe or unsound banking practices or violations of law or regulation relating to, among other things, deficiencies and weaknesses in its AML/Countering the Financing of Terrorism program” (De la Cruz et al., 2023).
 While the core metrics for assessing a company's risk management and compliance performance are valuable tools, it's important to exercise caution when interpreting them in isolation. In the case of IDB Bank and the consent order, it's crucial to avoid making definitive conclusions about the bank's overall risk management effectiveness based solely on this specific incident.Here's why:
 
