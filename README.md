@@ -5,17 +5,15 @@
 ## Overview and Origin
 
 
-*Name of company*: LexisNexis Risk Solutions
+**Name of company:** LexisNexis Risk Solutions
 
-*Incorporation:* LexisNexis Risk Solutions operates under the division of LExisNexis Group, which was formed in 1994 from merger of Reed Elsevier's legal and business information businesses.
+**Incorporation:** LexisNexis Risk Solutions operates under the division of LExisNexis Group, which was formed in 1994 from merger of Reed Elsevier's legal and business information businesses.
 
-* Who are the founders of the company?
-Lexis Nexis Group, formed in 1994 from the merger of Reed Elsevier’s legal and business information businesses. Sir Pete Davis (CEO of Reed Elsevier at the time of the merger) and Richard Brandt (President of Mead Data Central, a company acquired by Reed Elsevier in 1994, forming part of LexisNexis)
+**Founders:** Lexis Nexis Group, formed in 1994 from the merger of Reed Elsevier’s legal and business information businesses. Sir Pete Davis (CEO of Reed Elsevier at the time of the merger) and Richard Brandt (President of Mead Data Central, a company acquired by Reed Elsevier in 1994, forming part of LexisNexis)
 
-* How did the idea for the company (or project) come about? 
-LexisNexis, established in 1994, initially focused on providing legal and business information services. This included access to legal databases, news archives, and other resources for professionals in the Risk Management industry.
+**Idea Generation:** LexisNexis, established in 1994, initially focused on providing legal and business information services. This included access to legal databases, news archives, and other resources for professionals in the Risk Management industry.
 
-* How is the company funded? How much funding have they received? As a publicly traded company, LexisNexis Group raises Capital through various avenues, including:
+**Funding:** As a publicly traded company, LexisNexis Group raises Capital through various avenues, including:
 •	Issuing new shares of Stock
 •	Generating Revenue from its various products and services, including those offered by LexisNexis Risk Solutions.
 •	Borrowing money through debt financing
