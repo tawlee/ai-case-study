@@ -39,20 +39,13 @@
 
 **Market Size:** The global risk management market is estimated to reach USD 6.8 billion by 2028, with the financial services segment holding the largest share. Specific segments, such as the global Anti-Money Laundering (AML) market, are expected to reach USD 11.3 billion by 2027.
 
-**Unique Offering:** LexisNexis Risk Solutions' competitive advantage lies in its extensive data sources, proprietary data enrichment techniques, investment in AI research and development, industry expertise, and partnerships. Here's a breakdown:
+**Unique Offering:** LexisNexis Risk Solutions' competitive advantage lies in its extensive data sources, proprietary data enrichment techniques, investment in AI research and development, industry expertise, and partnerships. 
 
-*Data Advantage:*
--	Extensive Data Sources: LexisNexis holds a vast repository of data from diverse sources, including public records, financial transactions, news articles, and social media. This comprehensive data pool fuels their AI models and provides deeper insights than competitors with limited data access.
--	Proprietary Data Enrichment: They invest in enriching their data with proprietary algorithms and techniques, enhancing its accuracy and relevance for specific risk management needs. 
-
-*AI Expertise and Innovation:*
--	Investment in AI Research and Development: LexisNexis Risk Solutions heavily invests in AI research and development, employing a team of data scientists and engineers dedicated to advancing their AI capabilities. 
--	Focus on Explainable AI: They emphasize the development of explainable AI models, allowing users to understand how the AI arrives at its decisions, enhancing transparency and trust in their solutions.
-  
-*Industry Expertise and Partnerships:*
--	Deep Understanding of Financial Services: LexisNexis Risk Solutions possesses extensive knowledge and experience within the financial services industry, enabling them to tailor their solutions to specific needs and challenges. 
+![Alt Text](https://images.slideplayer.com/35/10402630/slides/slide_3.jpg)
 
 **Technologies Utilized:** LexisNexis Risk Solutions utilizes High-Performance Big Data Advanced Analytics, including sophisticated algorithms, predictive modeling, machine learning, and AI, along with proprietary technologies such as LexID Linking Technology and HPCC systems. 
+
+![Alt Text](https://risk.lexisnexis.com/-/media/images/healthcare/lexid%20for%20hc/lexid%20page%20image%202021%20header%20graphic%20jpg.jpg?la=en-us)
 
 ## Landscape
 
