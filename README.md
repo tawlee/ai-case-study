@@ -14,9 +14,9 @@
 **Idea Generation:** LexisNexis, established in 1994, initially focused on providing legal and business information services. This included access to legal databases, news archives, and other resources for professionals in the Risk Management industry.
 
 **Funding:** As a publicly traded company, LexisNexis Group raises Capital through various avenues, including:
-•	Issuing new shares of Stock
-•	Generating Revenue from its various products and services, including those offered by LexisNexis Risk Solutions.
-•	Borrowing money through debt financing
+-	Issuing new shares of Stock
+-	Generating Revenue from its various products and services, including those offered by LexisNexis Risk Solutions.
+-	Borrowing money through debt financing
 
 ## Business Activities
 
