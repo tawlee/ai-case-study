@@ -5,11 +5,9 @@
 ## Overview and Origin
 
 
-* Name of company
- LexisNexis Risk Solutions
+*Name of company*: LexisNexis Risk Solutions
 
-* When was the company incorporated? 
-  LexisNexis Risk Solutions isn’t a separate company, it falls under the division of LexisNexis Group
+*Incorporation:* LexisNexis Risk Solutions operates under the division of LExisNexis Group, which was formed in 1994 from merger of Reed Elsevier's legal and business information businesses.
 
 * Who are the founders of the company?
 Lexis Nexis Group, formed in 1994 from the merger of Reed Elsevier’s legal and business information businesses. Sir Pete Davis (CEO of Reed Elsevier at the time of the merger) and Richard Brandt (President of Mead Data Central, a company acquired by Reed Elsevier in 1994, forming part of LexisNexis)
