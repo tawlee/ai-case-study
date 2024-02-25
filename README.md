@@ -73,18 +73,18 @@
 **Major Competitors:** In the field of risk management and compliance, particularly focusing on the financial services sector, LexisNexis Risk Solutions faces competition from several major players. Here are some prominent names to consider:
 
 *Established Players:*
-•	Accenture: Offers a wide range of risk management and compliance solutions, including consulting, technology, and managed services.
-•	PwC: Provides risk management and compliance consulting services, along with technology solutions like NuCypher for data privacy.
-•	EY: Offers a comprehensive suite of risk management and compliance services, including internal audit, fraud investigation, and regulatory compliance.
-•	KPMG: Delivers a broad spectrum of risk management and compliance services, with expertise in financial institutions, healthcare, and other industries.
-•	Deloitte: Provides risk management and compliance services, including internal audit, cyber risk assessment, and regulatory compliance solutions.
+-	Accenture: Offers a wide range of risk management and compliance solutions, including consulting, technology, and managed services.
+-	PwC: Provides risk management and compliance consulting services, along with technology solutions like NuCypher for data privacy.
+-	EY: Offers a comprehensive suite of risk management and compliance services, including internal audit, fraud investigation, and regulatory compliance.
+-	KPMG: Delivers a broad spectrum of risk management and compliance services, with expertise in financial institutions, healthcare, and other industries.
+-	Deloitte: Provides risk management and compliance services, including internal audit, cyber risk assessment, and regulatory compliance solutions.
 
 *Technology-Focused Companies:*
-•	Moody's Analytics: Offers risk management and compliance solutions utilizing data analytics and AI, focusing on credit risk, fraud detection, and regulatory compliance.
-•	Experian: Provides risk management solutions like fraud prevention, identity verification, and credit risk assessment.
-•	Equifax: Offers credit risk solutions, fraud detection, and identity verification services.
-•	FICO: Specializes in credit risk management, fraud detection, and decision management solutions.
-•	RegTech Firms: Several smaller companies offer specialized technology solutions for specific areas of risk management and compliance, such as Know Your Customer (KYC) or Anti-Money Laundering (AML).
+-	Moody's Analytics: Offers risk management and compliance solutions utilizing data analytics and AI, focusing on credit risk, fraud detection, and regulatory compliance.
+-	Experian: Provides risk management solutions like fraud prevention, identity verification, and credit risk assessment.
+-	Equifax: Offers credit risk solutions, fraud detection, and identity verification services.
+-	FICO: Specializes in credit risk management, fraud detection, and decision management solutions.
+-	RegTech Firms: Several smaller companies offer specialized technology solutions for specific areas of risk management and compliance, such as Know Your Customer (KYC) or Anti-Money Laundering (AML).
 
 ## Results
 
