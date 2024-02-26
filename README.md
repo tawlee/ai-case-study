@@ -134,6 +134,8 @@ While the core metrics for assessing a company's risk management and compliance 
 *Neutral indicators:*
 -	Total Customer Deposits: $8,064 million is a moderate level of customer deposits, which could be a function of their target market or focus areas.
 
+![Alt Text](https://media.licdn.com/dms/image/D4E0BAQHHSJzRwoSE7w/company-logo_200_200/0/1688421361464/idbbank_logo?e=2147483647&v=beta&t=8sDsxWFpkovCk8u4pn1YPM99XvpU3BKxU6KeZZEHcEg)
+
 ## Recommendations
 
 **Suggested Offerings:**
